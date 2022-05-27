@@ -4,7 +4,7 @@ The Frontend for the CFI Website.
 
 ## Want to Contribute?
 
-- [CONTRIBUTING.md Documentation](./CONTRIBUTING.mdCONTRIBUTING.md)
+- [CONTRIBUTING.md Documentation](./CONTRIBUTING.md)
 
 ## Next.js
 
