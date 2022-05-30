@@ -1,6 +1,6 @@
 # Contributing
 
-Thank you for considering investing your time in contributing to our project!
+Hej! Thank you for considering investing your time in contributing to our project!
 
 You can start by [joining our Discord](https://discord.gg/sQqq5qRbQq), and checking out the **#website-project** channel for more discussions about the project.
 
